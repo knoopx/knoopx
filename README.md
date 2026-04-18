@@ -20,6 +20,6 @@ Developer tools, AI agents & LLMs, NixOS, Niri, self-hosting, linux, FPV drones,
 [vicinae-extensions](https://github.com/knoopx/vicinae-extensions) — 24 Vicinae launcher extensions         
 [alpine-raspberry-pi](https://github.com/knoopx/alpine-raspberry-pi) — Alpine Linux disk images for Pi      
 
-## Contact
+## Links
 
 [knoopx.net](https://knoopx.net) · [huggingface.co/knoopx](https://huggingface.co/knoopx) · [@knoopx.bsky.social](https://knoopx.bsky.social) · [printables.com/@knoopx](https://www.printables.com/@knoopx_39679)                         
